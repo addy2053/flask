@@ -1,0 +1,9 @@
+/*%message{*/
+    /*color: blue;*/
+ /*}*/
+p::selection{
+    color: yellow;
+}
+h1{
+    color: red;
+}
